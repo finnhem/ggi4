@@ -3,3 +3,4 @@ Python*
 *.egg-info
 build
 *.pdf
+exercise2/kmeans_*.png

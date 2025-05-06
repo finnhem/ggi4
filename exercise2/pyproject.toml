@@ -1,0 +1,8 @@
+[project]
+name = "exercise-2"
+version = "0.1.0"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "scikit-learn",
+]
